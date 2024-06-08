@@ -7,12 +7,12 @@ Created by Luca Franzesi on 08/06/2024
 
 - [Basic Informations](#masterzxsolana_exam)
 - [Quickstart](#quickstart)
-    - [Dependency Initialization](#0.-dependency-initialization)
-    - [Keypair Generation](#1.-keypair-generation)
-    - [Funding your Wallet](#2.-funding-your-wallet)
-    - [Initializing a new Fungible Token](#3.-initializing-a-new-fungible-token)
-    - [Minting Tokens](#4.-minting-tokens)
-    - [Transferring Tokens](#5.-transferring-tokens)
+    - [Dependency Initialization](#0-dependency-initialization)
+    - [Keypair Generation](#1-keypair-generation)
+    - [Funding your Wallet](#2-funding-your-wallet)
+    - [Initializing a new Fungible Token](#3-initializing-a-new-fungible-token)
+    - [Minting Tokens](#4-minting-tokens)
+    - [Transferring Tokens](#5-transferring-tokens)
 
 
 ## Quickstart
@@ -51,4 +51,4 @@ To create new token supply you can run `yarn token-mint`. This will create a Min
 
 To transfer your tokens you can run `yarn token-transfer`. This will transfer half of your minted tokens to another account (creating its MintAccount if not already generated).
 
-**NOTE:** To run this passage you need to import a second keypair. For more informations follow [1. Keypair Generation](#1.-keypair-generation).
+**NOTE:** To run this passage you need to import a second keypair. For more informations follow [1. Keypair Generation](#1-keypair-generation).
